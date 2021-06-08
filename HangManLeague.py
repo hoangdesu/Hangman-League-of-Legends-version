@@ -2,7 +2,7 @@ from random import randint
 import json
 
 def displayWelcome(data_list):
-    print("\n--- Welcome to Hangman - League of Legends edition!---")
+    print("\n--- Welcome to Hangman - League of Legends version!---")
     print(f"\nCurrently there are {len(data_list)} champions as of version 11.11")
     print("Try to guess a champion's name from an ability")
     print('You can type "/ff" to surrender and see the answer')
@@ -22,6 +22,7 @@ def get_data(file_object):
 def game_loop(data_list, score):
     lives = 5
     random_champ = data_list[randint(0, len(data_list) - 1)]
+    # random_champ = data_list[len(data_list) - 5] # zed only hehe xd
     champName = random_champ["name"]
     abilities_list = random_champ["abilities"]
     ability_index = randint(0, len(abilities_list) - 1)
@@ -118,7 +119,7 @@ def game_loop(data_list, score):
                 game_loop(data_list, score)
             elif repeat.lower() == 'gg':
                 print("GGWP!")
-                break
+                exit()
             else:
                 print('Invalid input')
                 repeat = input("\nHit Enter to play again, gg to quit: ")
