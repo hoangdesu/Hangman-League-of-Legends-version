@@ -1,0 +1,1397 @@
+[
+    {
+        "name": "Aatrox",
+        "abilities": [
+            "The Darkin Blade",
+            "Infernal Chains",
+            "Umbral Dash",
+            "World Ender"
+        ]
+    },
+    {
+        "name": "Ahri",
+        "abilities": [
+            "Orb of Deception",
+            "Fox-Fire",
+            "Charm",
+            "Spirit Rush"
+        ]
+    },
+    {
+        "name": "Akali",
+        "abilities": [
+            "Five Point Strike",
+            "Twilight Shroud",
+            "Shuriken Flip",
+            "Perfect Execution"
+        ]
+    },
+    {
+        "name": "Alistar",
+        "abilities": [
+            "Pulverize",
+            "Headbutt",
+            "Trample",
+            "Unbreakable Will"
+        ]
+    },
+    {
+        "name": "Amumu",
+        "abilities": [
+            "Bandage Toss",
+            "Despair",
+            "Tantrum",
+            "Curse of the Sad Mummy"
+        ]
+    },
+    {
+        "name": "Anivia",
+        "abilities": [
+            "Flash Frost",
+            "Crystallize",
+            "Frostbite",
+            "Glacial Storm"
+        ]
+    },
+    {
+        "name": "Annie",
+        "abilities": [
+            "Disintegrate",
+            "Incinerate",
+            "Molten Shield",
+            "Summon: Tibbers"
+        ]
+    },
+    {
+        "name": "Aphelios",
+        "abilities": [
+            "Weapon Abilites",
+            "Phase",
+            "Weapon Queue System",
+            "Moonlight Vigil"
+        ]
+    },
+    {
+        "name": "Ashe",
+        "abilities": [
+            "Ranger's Focus",
+            "Volley",
+            "Hawkshot",
+            "Enchanted Crystal Arrow"
+        ]
+    },
+    {
+        "name": "AurelionSol",
+        "abilities": [
+            "Starsurge",
+            "Celestial Expansion",
+            "Comet of Legend",
+            "Voice of Light"
+        ]
+    },
+    {
+        "name": "Azir",
+        "abilities": [
+            "Conquering Sands",
+            "Arise!",
+            "Shifting Sands",
+            "Emperor's Divide"
+        ]
+    },
+    {
+        "name": "Bard",
+        "abilities": [
+            "Cosmic Binding",
+            "Caretaker's Shrine",
+            "Magical Journey",
+            "Tempered Fate"
+        ]
+    },
+    {
+        "name": "Blitzcrank",
+        "abilities": [
+            "Rocket Grab",
+            "Overdrive",
+            "Power Fist",
+            "Static Field"
+        ]
+    },
+    {
+        "name": "Brand",
+        "abilities": [
+            "Sear",
+            "Pillar of Flame",
+            "Conflagration",
+            "Pyroclasm"
+        ]
+    },
+    {
+        "name": "Braum",
+        "abilities": [
+            "Winter's Bite",
+            "Stand Behind Me",
+            "Unbreakable",
+            "Glacial Fissure"
+        ]
+    },
+    {
+        "name": "Caitlyn",
+        "abilities": [
+            "Piltover Peacemaker",
+            "Yordle Snap Trap",
+            "90 Caliber Net",
+            "Ace in the Hole"
+        ]
+    },
+    {
+        "name": "Camille",
+        "abilities": [
+            "Precision Protocol",
+            "Tactical Sweep",
+            "Hookshot",
+            "The Hextech Ultimatum"
+        ]
+    },
+    {
+        "name": "Cassiopeia",
+        "abilities": [
+            "Noxious Blast",
+            "Miasma",
+            "Twin Fang",
+            "Petrifying Gaze"
+        ]
+    },
+    {
+        "name": "Chogath",
+        "abilities": [
+            "Rupture",
+            "Feral Scream",
+            "Vorpal Spikes",
+            "Feast"
+        ]
+    },
+    {
+        "name": "Corki",
+        "abilities": [
+            "Phosphorus Bomb",
+            "Valkyrie",
+            "Gatling Gun",
+            "Missile Barrage"
+        ]
+    },
+    {
+        "name": "Darius",
+        "abilities": [
+            "Decimate",
+            "Crippling Strike",
+            "Apprehend",
+            "Noxian Guillotine"
+        ]
+    },
+    {
+        "name": "Diana",
+        "abilities": [
+            "Crescent Strike",
+            "Pale Cascade",
+            "Lunar Rush",
+            "Moonfall"
+        ]
+    },
+    {
+        "name": "Draven",
+        "abilities": [
+            "Spinning Axe",
+            "Blood Rush",
+            "Stand Aside",
+            "Whirling Death"
+        ]
+    },
+    {
+        "name": "DrMundo",
+        "abilities": [
+            "Infected Cleaver",
+            "Burning Agony",
+            "Masochism",
+            "Sadism"
+        ]
+    },
+    {
+        "name": "Ekko",
+        "abilities": [
+            "Timewinder",
+            "Parallel Convergence",
+            "Phase Dive",
+            "Chronobreak"
+        ]
+    },
+    {
+        "name": "Elise",
+        "abilities": [
+            "Neurotoxin / Venomous Bite",
+            "Volatile Spiderling / Skittering Frenzy",
+            "Cocoon / Rappel",
+            "Spider Form"
+        ]
+    },
+    {
+        "name": "Evelynn",
+        "abilities": [
+            "Hate Spike",
+            "Allure",
+            "Whiplash",
+            "Last Caress"
+        ]
+    },
+    {
+        "name": "Ezreal",
+        "abilities": [
+            "Mystic Shot",
+            "Essence Flux",
+            "Arcane Shift",
+            "Trueshot Barrage"
+        ]
+    },
+    {
+        "name": "Fiddlesticks",
+        "abilities": [
+            "Terrify",
+            "Bountiful Harvest",
+            "Reap",
+            "Crowstorm"
+        ]
+    },
+    {
+        "name": "Fiora",
+        "abilities": [
+            "Lunge",
+            "Riposte",
+            "Bladework",
+            "Grand Challenge"
+        ]
+    },
+    {
+        "name": "Fizz",
+        "abilities": [
+            "Urchin Strike",
+            "Seastone Trident",
+            "Playful / Trickster",
+            "Chum the Waters"
+        ]
+    },
+    {
+        "name": "Galio",
+        "abilities": [
+            "Winds of War",
+            "Shield of Durand",
+            "Justice Punch",
+            "Hero's Entrance"
+        ]
+    },
+    {
+        "name": "Gangplank",
+        "abilities": [
+            "Parrrley",
+            "Remove Scurvy",
+            "Powder Keg",
+            "Cannon Barrage"
+        ]
+    },
+    {
+        "name": "Garen",
+        "abilities": [
+            "Decisive Strike",
+            "Courage",
+            "Judgment",
+            "Demacian Justice"
+        ]
+    },
+    {
+        "name": "Gnar",
+        "abilities": [
+            "Boomerang Throw / Boulder Toss",
+            "Hyper / Wallop",
+            "Hop / Crunch",
+            "GNAR!"
+        ]
+    },
+    {
+        "name": "Gragas",
+        "abilities": [
+            "Barrel Roll",
+            "Drunken Rage",
+            "Body Slam",
+            "Explosive Cask"
+        ]
+    },
+    {
+        "name": "Graves",
+        "abilities": [
+            "End of the Line",
+            "Smoke Screen",
+            "Quickdraw",
+            "Collateral Damage"
+        ]
+    },
+    {
+        "name": "Gwen",
+        "abilities": [
+            "Snip Snip!",
+            "Hallowed Mist",
+            "Skip 'n Slash",
+            "Needlework"
+        ]
+    },
+    {
+        "name": "Hecarim",
+        "abilities": [
+            "Rampage",
+            "Spirit of Dread",
+            "Devastating Charge",
+            "Onslaught of Shadows"
+        ]
+    },
+    {
+        "name": "Heimerdinger",
+        "abilities": [
+            "H-28 G Evolution Turret",
+            "Hextech Micro-Rockets",
+            "CH-2 Electron Storm Grenade",
+            "UPGRADE!!!"
+        ]
+    },
+    {
+        "name": "Illaoi",
+        "abilities": [
+            "Tentacle Smash",
+            "Harsh Lesson",
+            "Test of Spirit",
+            "Leap of Faith"
+        ]
+    },
+    {
+        "name": "Irelia",
+        "abilities": [
+            "Bladesurge",
+            "Defiant Dance",
+            "Flawless Duet",
+            "Vanguard's Edge"
+        ]
+    },
+    {
+        "name": "Ivern",
+        "abilities": [
+            "Rootcaller",
+            "Brushmaker",
+            "Triggerseed",
+            "Daisy!"
+        ]
+    },
+    {
+        "name": "Janna",
+        "abilities": [
+            "Howling Gale",
+            "Zephyr",
+            "Eye Of The Storm",
+            "Monsoon"
+        ]
+    },
+    {
+        "name": "JarvanIV",
+        "abilities": [
+            "Dragon Strike",
+            "Golden Aegis",
+            "Demacian Standard",
+            "Cataclysm"
+        ]
+    },
+    {
+        "name": "Jax",
+        "abilities": [
+            "Leap Strike",
+            "Empower",
+            "Counter Strike",
+            "Grandmaster's Might"
+        ]
+    },
+    {
+        "name": "Jayce",
+        "abilities": [
+            "To the Skies! / Shock Blast",
+            "Lightning Field / Hyper Charge",
+            "Thundering Blow / Acceleration Gate",
+            "Mercury Cannon / Mercury Hammer"
+        ]
+    },
+    {
+        "name": "Jhin",
+        "abilities": [
+            "Dancing Grenade",
+            "Deadly Flourish",
+            "Captive Audience",
+            "Curtain Call"
+        ]
+    },
+    {
+        "name": "Jinx",
+        "abilities": [
+            "Switcheroo!",
+            "Zap!",
+            "Flame Chompers!",
+            "Super Mega Death Rocket!"
+        ]
+    },
+    {
+        "name": "Kaisa",
+        "abilities": [
+            "Icathian Rain",
+            "Void Seeker",
+            "Supercharge",
+            "Killer Instinct"
+        ]
+    },
+    {
+        "name": "Kalista",
+        "abilities": [
+            "Pierce",
+            "Sentinel",
+            "Rend",
+            "Fate's Call"
+        ]
+    },
+    {
+        "name": "Karma",
+        "abilities": [
+            "Inner Flame",
+            "Focused Resolve",
+            "Inspire",
+            "Mantra"
+        ]
+    },
+    {
+        "name": "Karthus",
+        "abilities": [
+            "Lay Waste",
+            "Wall of Pain",
+            "Defile",
+            "Requiem"
+        ]
+    },
+    {
+        "name": "Kassadin",
+        "abilities": [
+            "Null Sphere",
+            "Nether Blade",
+            "Force Pulse",
+            "Riftwalk"
+        ]
+    },
+    {
+        "name": "Katarina",
+        "abilities": [
+            "Bouncing Blade",
+            "Preparation",
+            "Shunpo",
+            "Death Lotus"
+        ]
+    },
+    {
+        "name": "Kayle",
+        "abilities": [
+            "Radiant Blast",
+            "Celestial Blessing",
+            "Starfire Spellblade",
+            "Divine Judgment"
+        ]
+    },
+    {
+        "name": "Kayn",
+        "abilities": [
+            "Reaping Slash",
+            "Blade's Reach",
+            "Shadow Step",
+            "Umbral Trespass"
+        ]
+    },
+    {
+        "name": "Kennen",
+        "abilities": [
+            "Thundering Shuriken",
+            "Electrical Surge",
+            "Lightning Rush",
+            "Slicing Maelstrom"
+        ]
+    },
+    {
+        "name": "Khazix",
+        "abilities": [
+            "Taste Their Fear",
+            "Void Spike",
+            "Leap",
+            "Void Assault"
+        ]
+    },
+    {
+        "name": "Kindred",
+        "abilities": [
+            "Dance of Arrows",
+            "Wolf's Frenzy",
+            "Mounting Dread",
+            "Lamb's Respite"
+        ]
+    },
+    {
+        "name": "Kled",
+        "abilities": [
+            "Bear Trap on a Rope",
+            "Violent Tendencies",
+            "Jousting",
+            "Chaaaaaaaarge!!!"
+        ]
+    },
+    {
+        "name": "KogMaw",
+        "abilities": [
+            "Caustic Spittle",
+            "Bio-Arcane Barrage",
+            "Void Ooze",
+            "Living Artillery"
+        ]
+    },
+    {
+        "name": "Leblanc",
+        "abilities": [
+            "Sigil of Malice",
+            "Distortion",
+            "Ethereal Chains",
+            "Mimic"
+        ]
+    },
+    {
+        "name": "LeeSin",
+        "abilities": [
+            "Sonic Wave / Resonating Strike",
+            "Safeguard / Iron Will",
+            "Tempest / Cripple",
+            "Dragon's Rage"
+        ]
+    },
+    {
+        "name": "Leona",
+        "abilities": [
+            "Shield of Daybreak",
+            "Eclipse",
+            "Zenith Blade",
+            "Solar Flare"
+        ]
+    },
+    {
+        "name": "Lillia",
+        "abilities": [
+            "Blooming Blows",
+            "Watch Out! Eep!",
+            "Swirlseed",
+            "Lilting Lullaby"
+        ]
+    },
+    {
+        "name": "Lissandra",
+        "abilities": [
+            "Ice Shard",
+            "Ring of Frost",
+            "Glacial Path",
+            "Frozen Tomb"
+        ]
+    },
+    {
+        "name": "Lucian",
+        "abilities": [
+            "Piercing Light",
+            "Ardent Blaze",
+            "Relentless Pursuit",
+            "The Culling"
+        ]
+    },
+    {
+        "name": "Lulu",
+        "abilities": [
+            "Glitterlance",
+            "Whimsy",
+            "Help, Pix!",
+            "Wild Growth"
+        ]
+    },
+    {
+        "name": "Lux",
+        "abilities": [
+            "Light Binding",
+            "Prismatic Barrier",
+            "Lucent Singularity",
+            "Final Spark"
+        ]
+    },
+    {
+        "name": "Malphite",
+        "abilities": [
+            "Seismic Shard",
+            "Thunderclap",
+            "Ground Slam",
+            "Unstoppable Force"
+        ]
+    },
+    {
+        "name": "Malzahar",
+        "abilities": [
+            "Call of the Void",
+            "Void Swarm",
+            "Malefic Visions",
+            "Nether Grasp"
+        ]
+    },
+    {
+        "name": "Maokai",
+        "abilities": [
+            "Bramble Smash",
+            "Twisted Advance",
+            "Sapling Toss",
+            "Nature's Grasp"
+        ]
+    },
+    {
+        "name": "MasterYi",
+        "abilities": [
+            "Alpha Strike",
+            "Meditate",
+            "Wuju Style",
+            "Highlander"
+        ]
+    },
+    {
+        "name": "MissFortune",
+        "abilities": [
+            "Double Up",
+            "Strut",
+            "Make It Rain",
+            "Bullet Time"
+        ]
+    },
+    {
+        "name": "MonkeyKing",
+        "abilities": [
+            "Crushing Blow",
+            "Warrior Trickster",
+            "Nimbus Strike",
+            "Cyclone"
+        ]
+    },
+    {
+        "name": "Mordekaiser",
+        "abilities": [
+            "Obliterate",
+            "Indestructible",
+            "Death's Grasp",
+            "Realm of Death"
+        ]
+    },
+    {
+        "name": "Morgana",
+        "abilities": [
+            "Dark Binding",
+            "Tormented Shadow",
+            "Black Shield",
+            "Soul Shackles"
+        ]
+    },
+    {
+        "name": "Nami",
+        "abilities": [
+            "Aqua Prison",
+            "Ebb and Flow",
+            "Tidecaller's Blessing",
+            "Tidal Wave"
+        ]
+    },
+    {
+        "name": "Nasus",
+        "abilities": [
+            "Siphoning Strike",
+            "Wither",
+            "Spirit Fire",
+            "Fury of the Sands"
+        ]
+    },
+    {
+        "name": "Nautilus",
+        "abilities": [
+            "Dredge Line",
+            "Titan's Wrath",
+            "Riptide",
+            "Depth Charge"
+        ]
+    },
+    {
+        "name": "Neeko",
+        "abilities": [
+            "Blooming Burst",
+            "Shapesplitter",
+            "Tangle-Barbs",
+            "Pop Blossom"
+        ]
+    },
+    {
+        "name": "Nidalee",
+        "abilities": [
+            "Javelin Toss / Takedown",
+            "Bushwhack / Pounce",
+            "Primal Surge / Swipe",
+            "Aspect Of The Cougar"
+        ]
+    },
+    {
+        "name": "Nocturne",
+        "abilities": [
+            "Duskbringer",
+            "Shroud of Darkness",
+            "Unspeakable Horror",
+            "Paranoia"
+        ]
+    },
+    {
+        "name": "Nunu",
+        "abilities": [
+            "Consume",
+            "Biggest Snowball Ever!",
+            "Snowball Barrage",
+            "Absolute Zero"
+        ]
+    },
+    {
+        "name": "Olaf",
+        "abilities": [
+            "Undertow",
+            "Vicious Strikes",
+            "Reckless Swing",
+            "Ragnarok"
+        ]
+    },
+    {
+        "name": "Orianna",
+        "abilities": [
+            "Command: Attack",
+            "Command: Dissonance",
+            "Command: Protect",
+            "Command: Shockwave"
+        ]
+    },
+    {
+        "name": "Ornn",
+        "abilities": [
+            "Volcanic Rupture",
+            "Bellows Breath",
+            "Searing Charge",
+            "Call of the Forge God"
+        ]
+    },
+    {
+        "name": "Pantheon",
+        "abilities": [
+            "Comet Spear",
+            "Shield Vault",
+            "Aegis Assault",
+            "Grand Starfall"
+        ]
+    },
+    {
+        "name": "Poppy",
+        "abilities": [
+            "Hammer Shock",
+            "Steadfast Presence",
+            "Heroic Charge",
+            "Keeper's Verdict"
+        ]
+    },
+    {
+        "name": "Pyke",
+        "abilities": [
+            "Bone Skewer",
+            "Ghostwater Dive",
+            "Phantom Undertow",
+            "Death From Below"
+        ]
+    },
+    {
+        "name": "Qiyana",
+        "abilities": [
+            "Elemental Wrath / Edge of Ixtal",
+            "Terrashape",
+            "Audacity",
+            "Supreme Display of Talent"
+        ]
+    },
+    {
+        "name": "Quinn",
+        "abilities": [
+            "Blinding Assault",
+            "Heightened Senses",
+            "Vault",
+            "Behind Enemy Lines"
+        ]
+    },
+    {
+        "name": "Rakan",
+        "abilities": [
+            "Gleaming Quill",
+            "Grand Entrance",
+            "Battle Dance",
+            "The Quickness"
+        ]
+    },
+    {
+        "name": "Rammus",
+        "abilities": [
+            "Powerball",
+            "Defensive Ball Curl",
+            "Frenzying Taunt",
+            "Soaring Slam"
+        ]
+    },
+    {
+        "name": "RekSai",
+        "abilities": [
+            "Queen's Wrath / Prey Seeker",
+            "Burrow / Un-burrow",
+            "Furious Bite / Tunnel",
+            "Void Rush"
+        ]
+    },
+    {
+        "name": "Rell",
+        "abilities": [
+            "Shattering Strike",
+            "Ferromancy: Crash Down",
+            "Attract and Repel",
+            "Magnet Storm"
+        ]
+    },
+    {
+        "name": "Renekton",
+        "abilities": [
+            "Cull the Meek",
+            "Ruthless Predator",
+            "Slice and Dice",
+            "Dominus"
+        ]
+    },
+    {
+        "name": "Rengar",
+        "abilities": [
+            "Savagery",
+            "Battle Roar",
+            "Bola Strike",
+            "Thrill of the Hunt"
+        ]
+    },
+    {
+        "name": "Riven",
+        "abilities": [
+            "Broken Wings",
+            "Ki Burst",
+            "Valor",
+            "Blade of the Exile"
+        ]
+    },
+    {
+        "name": "Rumble",
+        "abilities": [
+            "Flamespitter",
+            "Scrap Shield",
+            "Electro Harpoon",
+            "The Equalizer"
+        ]
+    },
+    {
+        "name": "Ryze",
+        "abilities": [
+            "Overload",
+            "Rune Prison",
+            "Spell Flux",
+            "Realm Warp"
+        ]
+    },
+    {
+        "name": "Samira",
+        "abilities": [
+            "Flair",
+            "Blade Whirl",
+            "Wild Rush",
+            "Inferno Trigger"
+        ]
+    },
+    {
+        "name": "Sejuani",
+        "abilities": [
+            "Arctic Assault",
+            "Winter's Wrath",
+            "Permafrost",
+            "Glacial Prison"
+        ]
+    },
+    {
+        "name": "Senna",
+        "abilities": [
+            "Piercing Darkness",
+            "Last Embrace",
+            "Curse of the Black Mist",
+            "Dawning Shadow"
+        ]
+    },
+    {
+        "name": "Seraphine",
+        "abilities": [
+            "High Note",
+            "Surround Sound",
+            "Beat Drop",
+            "Encore"
+        ]
+    },
+    {
+        "name": "Sett",
+        "abilities": [
+            "Knuckle Down",
+            "Haymaker",
+            "Facebreaker",
+            "The Show Stopper"
+        ]
+    },
+    {
+        "name": "Shaco",
+        "abilities": [
+            "Deceive",
+            "Jack In The Box",
+            "Two-Shiv Poison",
+            "Hallucinate"
+        ]
+    },
+    {
+        "name": "Shen",
+        "abilities": [
+            "Twilight Assault",
+            "Spirit's Refuge",
+            "Shadow Dash",
+            "Stand United"
+        ]
+    },
+    {
+        "name": "Shyvana",
+        "abilities": [
+            "Twin Bite",
+            "Burnout",
+            "Flame Breath",
+            "Dragon's Descent"
+        ]
+    },
+    {
+        "name": "Singed",
+        "abilities": [
+            "Poison Trail",
+            "Mega Adhesive",
+            "Fling",
+            "Insanity Potion"
+        ]
+    },
+    {
+        "name": "Sion",
+        "abilities": [
+            "Decimating Smash",
+            "Soul Furnace",
+            "Roar of the Slayer",
+            "Unstoppable Onslaught"
+        ]
+    },
+    {
+        "name": "Sivir",
+        "abilities": [
+            "Boomerang Blade",
+            "Ricochet",
+            "Spell Shield",
+            "On The Hunt"
+        ]
+    },
+    {
+        "name": "Skarner",
+        "abilities": [
+            "Crystal Slash",
+            "Crystalline Exoskeleton",
+            "Fracture",
+            "Impale"
+        ]
+    },
+    {
+        "name": "Sona",
+        "abilities": [
+            "Hymn of Valor",
+            "Aria of Perseverance",
+            "Song of Celerity",
+            "Crescendo"
+        ]
+    },
+    {
+        "name": "Soraka",
+        "abilities": [
+            "Starcall",
+            "Astral Infusion",
+            "Equinox",
+            "Wish"
+        ]
+    },
+    {
+        "name": "Swain",
+        "abilities": [
+            "Death's Hand",
+            "Vision of Empire",
+            "Nevermove",
+            "Demonic Ascension"
+        ]
+    },
+    {
+        "name": "Sylas",
+        "abilities": [
+            "Chain Lash",
+            "Kingslayer",
+            "Abscond / Abduct",
+            "Hijack"
+        ]
+    },
+    {
+        "name": "Syndra",
+        "abilities": [
+            "Dark Sphere",
+            "Force of Will",
+            "Scatter the Weak",
+            "Unleashed Power"
+        ]
+    },
+    {
+        "name": "TahmKench",
+        "abilities": [
+            "Tongue Lash",
+            "Devour",
+            "Thick Skin",
+            "Abyssal Voyage"
+        ]
+    },
+    {
+        "name": "Taliyah",
+        "abilities": [
+            "Threaded Volley",
+            "Seismic Shove",
+            "Unraveled Earth",
+            "Weaver's Wall"
+        ]
+    },
+    {
+        "name": "Talon",
+        "abilities": [
+            "Noxian Diplomacy",
+            "Rake",
+            "Assassin's Path",
+            "Shadow Assault"
+        ]
+    },
+    {
+        "name": "Taric",
+        "abilities": [
+            "Starlight's Touch",
+            "Bastion",
+            "Dazzle",
+            "Cosmic Radiance"
+        ]
+    },
+    {
+        "name": "Teemo",
+        "abilities": [
+            "Blinding Dart",
+            "Move Quick",
+            "Toxic Shot",
+            "Noxious Trap"
+        ]
+    },
+    {
+        "name": "Thresh",
+        "abilities": [
+            "Death Sentence",
+            "Dark Passage",
+            "Flay",
+            "The Box"
+        ]
+    },
+    {
+        "name": "Tristana",
+        "abilities": [
+            "Rapid Fire",
+            "Rocket Jump",
+            "Explosive Charge",
+            "Buster Shot"
+        ]
+    },
+    {
+        "name": "Trundle",
+        "abilities": [
+            "Chomp",
+            "Frozen Domain",
+            "Pillar of Ice",
+            "Subjugate"
+        ]
+    },
+    {
+        "name": "Tryndamere",
+        "abilities": [
+            "Bloodlust",
+            "Mocking Shout",
+            "Spinning Slash",
+            "Undying Rage"
+        ]
+    },
+    {
+        "name": "TwistedFate",
+        "abilities": [
+            "Wild Cards",
+            "Pick a Card",
+            "Stacked Deck",
+            "Destiny"
+        ]
+    },
+    {
+        "name": "Twitch",
+        "abilities": [
+            "Ambush",
+            "Venom Cask",
+            "Contaminate",
+            "Spray and Pray"
+        ]
+    },
+    {
+        "name": "Udyr",
+        "abilities": [
+            "Tiger Stance",
+            "Turtle Stance",
+            "Bear Stance",
+            "Phoenix Stance"
+        ]
+    },
+    {
+        "name": "Urgot",
+        "abilities": [
+            "Corrosive Charge",
+            "Purge",
+            "Disdain",
+            "Fear Beyond Death"
+        ]
+    },
+    {
+        "name": "Varus",
+        "abilities": [
+            "Piercing Arrow",
+            "Blighted Quiver",
+            "Hail of Arrows",
+            "Chain of Corruption"
+        ]
+    },
+    {
+        "name": "Vayne",
+        "abilities": [
+            "Tumble",
+            "Silver Bolts",
+            "Condemn",
+            "Final Hour"
+        ]
+    },
+    {
+        "name": "Veigar",
+        "abilities": [
+            "Baleful Strike",
+            "Dark Matter",
+            "Event Horizon",
+            "Primordial Burst"
+        ]
+    },
+    {
+        "name": "Velkoz",
+        "abilities": [
+            "Plasma Fission",
+            "Void Rift",
+            "Tectonic Disruption",
+            "Life Form Disintegration Ray"
+        ]
+    },
+    {
+        "name": "Vi",
+        "abilities": [
+            "Vault Breaker",
+            "Denting Blows",
+            "Excessive Force",
+            "Assault and Battery"
+        ]
+    },
+    {
+        "name": "Viego",
+        "abilities": [
+            "Blade of the Ruined King",
+            "Spectral Maw",
+            "Harrowed Path",
+            "Heartbreaker"
+        ]
+    },
+    {
+        "name": "Viktor",
+        "abilities": [
+            "Siphon Power",
+            "Gravity Field",
+            "Death Ray",
+            "Chaos Storm"
+        ]
+    },
+    {
+        "name": "Vladimir",
+        "abilities": [
+            "Transfusion",
+            "Sanguine Pool",
+            "Tides of Blood",
+            "Hemoplague"
+        ]
+    },
+    {
+        "name": "Volibear",
+        "abilities": [
+            "Thundering Smash",
+            "Frenzied Maul",
+            "Sky Splitter",
+            "Stormbringer"
+        ]
+    },
+    {
+        "name": "Warwick",
+        "abilities": [
+            "Jaws of the Beast",
+            "Blood Hunt",
+            "Primal Howl",
+            "Infinite Duress"
+        ]
+    },
+    {
+        "name": "Xayah",
+        "abilities": [
+            "Double Daggers",
+            "Deadly Plumage",
+            "Bladecaller",
+            "Featherstorm"
+        ]
+    },
+    {
+        "name": "Xerath",
+        "abilities": [
+            "Arcanopulse",
+            "Eye of Destruction",
+            "Shocking Orb",
+            "Rite of the Arcane"
+        ]
+    },
+    {
+        "name": "XinZhao",
+        "abilities": [
+            "Three Talon Strike",
+            "Wind Becomes Lightning",
+            "Audacious Charge",
+            "Crescent Guard"
+        ]
+    },
+    {
+        "name": "Yasuo",
+        "abilities": [
+            "Steel Tempest",
+            "Wind Wall",
+            "Sweeping Blade",
+            "Last Breath"
+        ]
+    },
+    {
+        "name": "Yone",
+        "abilities": [
+            "Mortal Steel",
+            "Spirit Cleave",
+            "Soul Unbound",
+            "Fate Sealed"
+        ]
+    },
+    {
+        "name": "Yorick",
+        "abilities": [
+            "Last Rites",
+            "Dark Procession",
+            "Mourning Mist",
+            "Eulogy of the Isles"
+        ]
+    },
+    {
+        "name": "Yuumi",
+        "abilities": [
+            "Prowling Projectile",
+            "You and Me!",
+            "Zoomies",
+            "Final Chapter"
+        ]
+    },
+    {
+        "name": "Zac",
+        "abilities": [
+            "Stretching Strikes",
+            "Unstable Matter",
+            "Elastic Slingshot",
+            "Let's Bounce!"
+        ]
+    },
+    {
+        "name": "Zed",
+        "abilities": [
+            "Razor Shuriken",
+            "Living Shadow",
+            "Shadow Slash",
+            "Death Mark"
+        ]
+    },
+    {
+        "name": "Ziggs",
+        "abilities": [
+            "Bouncing Bomb",
+            "Satchel Charge",
+            "Hexplosive Minefield",
+            "Mega Inferno Bomb"
+        ]
+    },
+    {
+        "name": "Zilean",
+        "abilities": [
+            "Time Bomb",
+            "Rewind",
+            "Time Warp",
+            "Chronoshift"
+        ]
+    },
+    {
+        "name": "Zoe",
+        "abilities": [
+            "Paddle Star!",
+            "Spell Thief",
+            "Sleepy Trouble Bubble",
+            "Portal Jump"
+        ]
+    },
+    {
+        "name": "Zyra",
+        "abilities": [
+            "Deadly Spines",
+            "Rampant Growth",
+            "Grasping Roots",
+            "Stranglethorns"
+        ]
+    }
+]
